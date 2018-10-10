@@ -1,0 +1,16 @@
+﻿.items {
+    text-decoration: underline;
+    font-size: 24px;
+    margin-bottom: 18px;
+}
+.menu {
+    height: 100%;
+    background: yellow;
+}
+
+.mainRegion {
+    background:#fb9635;
+    width: 80%;
+    height: 100%;
+}
+
